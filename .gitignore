@@ -1,0 +1,44 @@
+# =============== Unity Generated Files ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# =============== Rider / VS / VSCode ===============
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+
+# =============== Builds & Output Files ===============
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.mdb
+*.pdb
+
+# =============== OS / Misc Files ===============
+.DS_Store
+Thumbs.db
+
+# =============== Crash Logs & Debug ===============
+*.stacktrace
+*.log
+
+# =============== Unity Asset Store Tools Cache ===============
+Assets/AssetStoreTools*
+
+# =============== Collaborate & PlasticSCM ===============
+.collab/
+.plastic/

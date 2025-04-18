@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ac8921e23736346a4d73521d17f8c6, type: 3}
+  m_Name: Container
+  m_EditorClassIdentifier: 
+  gridWidth: 10
+  gridHeight: 6
+  items:
+  - itemSO: {fileID: 11400000, guid: d5626158b855d0b4282316284c947dd3, type: 2}
+    position: {x: 0, y: 0}
